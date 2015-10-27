@@ -1,0 +1,107 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+"dame el peso de ropa"
+5
+1
+4
+peso
+7
+0
+1
+9
+peso <=10
+7
+0
+1
+10
+peso <= 15
+7
+0
+1
+9
+peso <=20
+7
+0
+1
+9
+peso > 20
+13
+4
+1
+9
+"no lava"
+13
+13
+4
+1
+22
+"nivel de agua maximo"
+13
+13
+4
+1
+21
+"nivel de agua medio"
+13
+13
+4
+1
+22
+"nivel de agua minimo"
+13
+7
+0
+1
+10
+peso <= 20
+13
+4
+1
+40
+"si su ropa es delicada1 normal2 sucia3"
+5
+1
+2
+n1
+7
+0
+1
+4
+n1=1
+7
+0
+1
+4
+n1=2
+7
+0
+1
+4
+n1=3
+13
+4
+1
+8
+"20 min"
+13
+13
+4
+1
+8
+"10 min"
+13
+13
+4
+1
+7
+"5 min"
+13
+13
+1
