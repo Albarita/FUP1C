@@ -1,7 +1,0 @@
-Inicio
-	Leer base
-	Leer altura
-	multiplicar <- base * altura
-	dividir <- multiplicar/2
-	Salida dividir
-Fin
